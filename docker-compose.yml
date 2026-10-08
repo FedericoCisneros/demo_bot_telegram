@@ -1,0 +1,12 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    restart: unless-stopped
+    volumes:
+      # Edit faq.json on the host, then `docker compose restart` to apply it (no rebuild needed).
+      - ./faq.json:/app/faq.json:ro
+      - bot-data:/app/data
+
+volumes:
+  bot-data:

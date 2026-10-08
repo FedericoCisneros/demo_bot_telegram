@@ -1,0 +1,30 @@
+{
+  "welcome": "👋 Hi! Welcome to Luna Coffee Roasters.\n\nPick a question below for an instant answer, or tap \"Talk to a person\" to message our team.",
+  "humanButton": "💬 Talk to a person",
+  "humanPrompt": "Sure! Just type your message here (you can also send photos or files) and someone from our team will answer you in this chat.",
+  "backButton": "⬅️ Back to questions",
+  "messageReceived": "✅ Got it! Your message was sent to our team. You'll get the answer right here.",
+  "deliveryFailed": "😕 Sorry, we couldn't deliver your message right now. Please try again in a few minutes.",
+  "items": [
+    {
+      "question": "🕘 Opening hours",
+      "answer": "We're open Monday to Friday 8:00–19:00 and Saturdays 9:00–14:00. Closed on Sundays and public holidays."
+    },
+    {
+      "question": "🚚 Shipping & delivery",
+      "answer": "We ship nationwide in 2–4 business days. Orders over $40 ship for free; below that, shipping is a flat $5."
+    },
+    {
+      "question": "💳 Payment methods",
+      "answer": "We accept credit and debit cards, bank transfer and PayPal. Wholesale customers can also pay on 30-day terms."
+    },
+    {
+      "question": "☕ Wholesale for cafés",
+      "answer": "Yes! We supply cafés and offices with fresh-roasted beans every week. Tap \"Talk to a person\" and tell us roughly how many kilos a month you need."
+    },
+    {
+      "question": "📍 Where are you?",
+      "answer": "Our roastery and shop are at 123 Harbor Street. Free parking is available right behind the building."
+    }
+  ]
+}

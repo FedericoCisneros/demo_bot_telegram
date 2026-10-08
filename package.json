@@ -1,0 +1,24 @@
+{
+  "name": "telegram-relay-faq-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that answers FAQs with inline buttons and relays customer messages to the owner without exposing the owner's account.",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/index.ts",
+    "test": "node --test \"test/*.test.ts\"",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.1",
+    "typescript": "^6.0.3"
+  },
+  "license": "MIT"
+}
