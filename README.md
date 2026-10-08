@@ -7,7 +7,7 @@ A Telegram bot that sits between your customers and you:
 - **Your personal account stays private.** Customers only ever talk to the bot. They never see your name, username or phone number.
 - **No code needed to change the FAQ.** Questions and answers live in a plain `faq.json` file.
 
-![Demo](docs/demo.gif)
+https://github.com/user-attachments/assets/14af02aa-9daf-407a-ba96-d34f6f75c341
 
 ## How it works
 
